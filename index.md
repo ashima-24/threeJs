@@ -2,9 +2,16 @@
 
 Here is the code of my first scene that I created today using threeJs library
 
-### Markdown
+### Day 1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Things that I learned today:
+
+1. **Relative path:** A relative path needs to be combined with another path in order to access a file. For example, joe/foo is a relative path. Without more information, a program cannot reliably locate the joe/foo directory in the file system.
+
+2. **Absolute path:** An absolute path always contains the root element and the complete directory list required to locate the file. For example, /home/sally/statusReport is an absolute path. All of the information needed to locate the file is contained in the path string.
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 ```markdown
 Syntax highlighted code block
@@ -24,7 +31,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [What is a path?](https://docs.oracle.com/javase/tutorial/essential/io/path.html).
 
 ### Jekyll Themes
 
