@@ -1,6 +1,6 @@
 ## Welcome!
 
-Here is the code ofsome basic examples that I created for learning Javascript
+Here is the code ofsome basic examples that I created for learning Javascript. JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.
 
 ### Day 1
 
