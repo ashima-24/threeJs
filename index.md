@@ -10,12 +10,22 @@ Things that I learned today:
 
 2. **Absolute path:** An absolute path always contains the root element and the complete directory list required to locate the file. For example, /home/sally/statusReport is an absolute path. All of the information needed to locate the file is contained in the path string.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [What is a path?](https://docs.oracle.com/javase/tutorial/essential/io/path.html).
 
 
 ```markdown
-Syntax highlighted code block
+<html>
 
+<head>
+
+<body>
+    <script src="./alert.js">
+
+    </script>
+</body>
+</head>
+
+</html>
 # Header 1
 ## Header 2
 ### Header 3
@@ -30,8 +40,8 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
+For more details see [Hello World Example](https://javascript.info/hello-world).
 
-For more details see [What is a path?](https://docs.oracle.com/javase/tutorial/essential/io/path.html).
 
 ### Jekyll Themes
 
