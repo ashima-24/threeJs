@@ -20,7 +20,7 @@ Here is the guide where you will be going to know what are the different tool wi
 b. In this image, we have to  Spray-On haptics toolkit widgets:
 
 1. **Brush**
-2. **Type**
+2. **Texture**
 3. **Export texture model** 
 4. **Toolkit Walkthrough Guide** 
 
