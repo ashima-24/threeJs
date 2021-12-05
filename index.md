@@ -7,12 +7,16 @@ Here is the guide where you will be going to know what are the different tool wi
 
 ![Step a](/threeJs/docs/assets/a.jpg)
 
-```markdown
 
-In this above image these is the main widget in toolkit. By clicking on this button user can upload any stl model in the toolkit to proceed further. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget sin the toolkit.
-```
+
+-In this above image these is the main widget in toolkit. By clicking on this button user can upload any stl model in the toolkit to proceed further. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget sin the toolkit.
+
 
 ![Step b](/threeJs/docs/assets/b.jpg)
+
+
+-In this image you are goin to see Spray-On haptics toolkit widgets. Under **Brush** we have size for adjusting the size of paint brush. **Type** we have two types of spray paints. **Export texture model** for exporting the model in image format. **Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+
 ![Step c](/threeJs/docs/assets/c.jpg)
 ![Step d](/threeJs/docs/assets/d.jpg)
 ![Step e](/threeJs/docs/assets/e.jpg)
