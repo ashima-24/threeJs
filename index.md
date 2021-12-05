@@ -1,17 +1,10 @@
 ## Welcome!
 
-Here is the code ofsome basic examples that I created for learning Javascript. JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.
+[Here is the code ofsome basic examples that I created for learning Javascript. JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.]
 
 ### Day 1
 
-Things that I learned today:
-
-1. **Relative path:** A relative path needs to be combined with another path in order to access a file. For example, joe/foo is a relative path. Without more information, a program cannot reliably locate the joe/foo directory in the file system.
-
-2. **Absolute path:** An absolute path always contains the root element and the complete directory list required to locate the file. For example, `/home/sally/statusReport` is an absolute path. All of the information needed to locate the file is contained in the path string.
-
-For more details see [What is a path?](https://docs.oracle.com/javase/tutorial/essential/io/path.html).
-
+[Things that I learned today:1. **Relative path:** A relative path needs to be combined with another path in order to access a file. For example, joe/foo is a relative path. Without more information, a program cannot reliably locate the joe/foo directory in the file system. 2. **Absolute path:** An absolute path always contains the root element and the complete directory list required to locate the file. For example, `/home/sally/statusReport` is an absolute path. All of the information needed to locate the file is contained in the path string. For more details see [What is a path?](https://docs.oracle.com/javase/tutorial/essential/io/path.html). ]
 
 ```markdown
 <html>
