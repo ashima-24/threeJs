@@ -9,20 +9,48 @@ Here is the guide where you will be going to know what are the different tool wi
 
 
 
--In this above image these is the main widget in toolkit. By clicking on this button user can upload any stl model in the toolkit to proceed further. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget sin the toolkit.
+1. In this above image these is the main widget in toolkit. By clicking on this button user can upload any stl model in the toolkit to proceed further. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget sin the toolkit.
 
 
 ![Step b](/threeJs/docs/assets/b.jpg)
 
 
--In this image you are goin to see Spray-On haptics toolkit widgets. Under **Brush** we have size for adjusting the size of paint brush. **Type** we have two types of spray paints. **Export texture model** for exporting the model in image format. **Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+2. In this image you are goin to see Spray-On haptics toolkit widgets. Under **Brush** we have size for adjusting the size of paint brush. **Type** we have two types of spray paints. **Export texture model** for exporting the model in image format. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
 
 ![Step c](/threeJs/docs/assets/c.jpg)
-![Step d](/threeJs/docs/assets/d.jpg)
-![Step e](/threeJs/docs/assets/e.jpg)
+
+3. In this **Size** helps in adjusting the size of paint brush. A value of 1 is like a pencil and a value of 15 or more is like a spray paint can.
+
+
+
+![Step d](/threeJs/docs/assets/d.jpg) 
+
 ![Step f](/threeJs/docs/assets/f.jpg)
+
+
+
+4. **Type** we have two types of spray paints. **Granite** and **Black Matt** paint.
+
+
+![Step e](/threeJs/docs/assets/e.jpg)
+
+
+
+5. **Export texture model** for exporting the model in image format(.png) and the .stl model also.
+
+
 ![Step h](/threeJs/docs/assets/h.jpg)
+
+
+6. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+
+
+
 ![Step i](/threeJs/docs/assets/i.jpg)
+
+
+7. **Close Controls** is for closing all widgets.
+
 
 
 <!--Here is the code ofsome basic examples that I created for learning Javascript. JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.]
