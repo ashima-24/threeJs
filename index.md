@@ -20,7 +20,7 @@ b. In this image you are goin to see Spray-On haptics toolkit widgets. Under **B
 
 ![Step c](/threeJs/docs/assets/c.jpg)
 
-c. In this **Size** helps in adjusting the size of paint brush. A value of 1 is like a pencil and a value of 15 or more is like a spray paint can.
+c. In this **Size** helps in adjusting the size of paint brush. <!-- A value of 1 is like a pencil and a value of 15 or more is like a spray paint can. -->
 
 
 
