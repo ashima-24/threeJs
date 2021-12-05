@@ -30,7 +30,7 @@ c. In this **Size** helps in adjusting the size of paint brush. <!-- A value of 
 
 
 
-d. **Type** we have two types of spray paints. **Granite** and **Black Matt** paint.
+d,f **Type** we have two types of spray paints. **Granite** and **Black Matt** paint.
 
 
 ![Step e](/threeJs/docs/assets/e.jpg)
@@ -43,14 +43,14 @@ e. **Export texture model** for exporting the model in image format(.png) and th
 ![Step h](/threeJs/docs/assets/h.jpg)
 
 
-f. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+h. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
 
 
 
 ![Step i](/threeJs/docs/assets/i.jpg)
 
 
-g. **Close Controls** is for closing all widgets.
+i. **Close Controls** is for closing all widgets.
 
 
 
