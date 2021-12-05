@@ -1,4 +1,6 @@
 ## Welcome to Walkthrough Guide!
+
+Here is the guide where you will be going to know what are the different tool widgets that you are going to use. I hope this guide will be enough to use the toolkit and use it. 
 <!--
 Here is the code ofsome basic examples that I created for learning Javascript. JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.]
 
