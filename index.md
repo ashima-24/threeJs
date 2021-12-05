@@ -1,11 +1,11 @@
 ## Welcome to Walkthrough Guide!
 
-Here is the guide where you will be going to know what are the different tool widgets that you are going to use. I hope this guide will be enough to use the toolkit and use it. 
+Here is the guide where you will be going to know what are the different tool widgets that you are going to use. I hope this guide will be enough to use the toolkit and use it.  
 
 ## Steps
 
 ![Step a](/threeJs/docs/assets/a.jpg)
-In this above image these is the main widget in toolkit. By clicking on this button user can upload any stl model in the toolkit to proceed further.
+In this above image these is the main widget in toolkit. By clicking on this button user can upload any stl model in the toolkit to proceed further. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget sin the toolkit.
 
 ![Step b](/threeJs/docs/assets/b.jpg)
 ![Step c](/threeJs/docs/assets/c.jpg)
