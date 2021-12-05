@@ -9,17 +9,17 @@ Here is the guide where you will be going to know what are the different tool wi
 
 
 
-1. In this above image these is the main widget in toolkit. By clicking on this button user can upload any stl model in the toolkit to proceed further. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget sin the toolkit.
+a. In this above image these is the main widget in toolkit. By clicking on this button user can upload any stl model in the toolkit to proceed further. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget sin the toolkit.
 
 
 ![Step b](/threeJs/docs/assets/b.jpg)
 
 
-2. In this image you are goin to see Spray-On haptics toolkit widgets. Under **Brush** we have size for adjusting the size of paint brush. **Type** we have two types of spray paints. **Export texture model** for exporting the model in image format. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+b. In this image you are goin to see Spray-On haptics toolkit widgets. Under **Brush** we have size for adjusting the size of paint brush. **Type** we have two types of spray paints. **Export texture model** for exporting the model in image format. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
 
 ![Step c](/threeJs/docs/assets/c.jpg)
 
-3. In this **Size** helps in adjusting the size of paint brush. A value of 1 is like a pencil and a value of 15 or more is like a spray paint can.
+c. In this **Size** helps in adjusting the size of paint brush. A value of 1 is like a pencil and a value of 15 or more is like a spray paint can.
 
 
 
@@ -29,27 +29,27 @@ Here is the guide where you will be going to know what are the different tool wi
 
 
 
-4. **Type** we have two types of spray paints. **Granite** and **Black Matt** paint.
+d. **Type** we have two types of spray paints. **Granite** and **Black Matt** paint.
 
 
 ![Step e](/threeJs/docs/assets/e.jpg)
 
 
 
-5. **Export texture model** for exporting the model in image format(.png) and the .stl model also.
+e. **Export texture model** for exporting the model in image format(.png) and the .stl model also.
 
 
 ![Step h](/threeJs/docs/assets/h.jpg)
 
 
-6. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+f. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
 
 
 
 ![Step i](/threeJs/docs/assets/i.jpg)
 
 
-7. **Close Controls** is for closing all widgets.
+g. **Close Controls** is for closing all widgets.
 
 
 
