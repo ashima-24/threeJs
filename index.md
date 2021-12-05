@@ -5,6 +5,14 @@ Here is the guide where you will be going to know what are the different tool wi
 ## Steps
 
 ![Step a](/threeJs/docs/assets/a.jpg)
+![Step b](/threeJs/docs/assets/b.jpg)
+![Step c](/threeJs/docs/assets/c.jpg)
+![Step d](/threeJs/docs/assets/d.jpg)
+![Step e](/threeJs/docs/assets/e.jpg)
+![Step f](/threeJs/docs/assets/f.jpg)
+![Step h](/threeJs/docs/assets/h.jpg)
+![Step i](/threeJs/docs/assets/i.jpg)
+
 
 <!--Here is the code ofsome basic examples that I created for learning Javascript. JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.]
 
