@@ -19,10 +19,10 @@ Here is the guide where you will be going to know what are the different tool wi
 
 b. In this image, we have to  Spray-On haptics toolkit widgets:
 
-1. **Brush** we have size for adjusting the size of paint brush.
-2. **Type** we have two types of spray paints.
-3. **Export texture model** for exporting the model in image format.
-4. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+1. **Brush**
+2. **Type**
+3. **Export texture model** 
+4. **Toolkit Walkthrough Guide** 
 
 ![Step c](/threeJs/docs/assets/c.jpg)
 
