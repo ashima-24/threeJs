@@ -73,6 +73,13 @@ j. Choose a particular **Size** of paint brush and **Texture** of spray paint.
 
 l. Select a region on the 3d model for making a stencil of that part by drawing over that.
 
+![Step m](/threeJs/docs/assets/m.jpg)
+
+m. Click on this export button to get the selected region as zip file.
+
+n. Run this batch file to convert the zip to give output as .svg file.
+
+o. import this .svg file on visicut.
 
 <!--Here is the code ofsome basic examples that I created for learning Javascript. JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.]
 
