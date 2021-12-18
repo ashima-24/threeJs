@@ -46,17 +46,17 @@ d,f **Type** we have two types of spray paints. **Granite** and **Black Matt** p
 e. **Export texture model** for exporting the model in image format(.png) and the .stl model also.
 
 
+![Step g](/threeJs/docs/assets/g.jpg)
+
+
+g. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+
+
+
 ![Step h](/threeJs/docs/assets/h.jpg)
 
 
-h. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
-
-
-
-![Step i](/threeJs/docs/assets/i.jpg)
-
-
-i. **Close Controls** is for closing all widgets.
+h. **Close Controls** is for closing all widgets.
 
 
 
