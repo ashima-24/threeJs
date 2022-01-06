@@ -11,13 +11,13 @@ Here is the guide where you will be going to know what are the different tool wi
 
 1. In this above image these is the main widget in toolkit. By clicking on this button user can upload any **stl model** in the toolkit to proceed further. 
 
-2. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget sin the toolkit.
+2. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget in the toolkit.
 
 
 ![Step b](/threeJs/docs/assets/b.jpg)
 
 
-b. In this image, we have to  Spray-On haptics toolkit widgets:
+b. In this image, we have Spray-On haptics toolkit widgets:
 
 1. **Brush**
 2. **Texture**
@@ -36,7 +36,7 @@ c. In this **Size** helps in adjusting the size of paint brush. <!-- A value of 
 
 
 
-d,f **Type** we have two types of spray paints. **Granite** and **Black Matt** paint.
+d,f **Texture** we have two types of spray paints. **Granite** and **Black Matt** paint.
 
 
 ![Step e](/threeJs/docs/assets/e.jpg)
@@ -77,9 +77,9 @@ l. Select a region on the 3d model for making a stencil of that part by drawing 
 
 m. Click on this export button to get the selected region as zip file.
 
-n. Run this batch file to convert the zip to give output as .svg file.
+n. Run this **./run.sh** batch file to convert the zip to give output as .svg file.
 
-o. import this .svg file on visicut.
+o. import this .svg file on **visicut**.
 
 <!--Here is the code ofsome basic examples that I created for learning Javascript. JavaScript, are called “dynamically typed”, meaning that there exist data types, but variables are not bound to any of them.]
 
