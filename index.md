@@ -5,7 +5,7 @@ Here is the guide where you will be going to know what are the different tool wi
 ## Steps
 
 
-![Step a](/threeJs/docs/a.jpg)
+![Step a](/threeJs/docs/a.png)
 
 
 
