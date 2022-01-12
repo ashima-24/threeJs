@@ -14,7 +14,7 @@ b. When you upload the STL model in the previous step, you will see some more to
 
 c. Choose a particular **Size** of paint brush 
 
-![Step d](/threeJs/docs/d_cover.jpg)
+![Step d](/threeJs/docs/de_cover.jpg)
 
 d,e. Choose a particular**Texture** of spray paint from the given options.
 
