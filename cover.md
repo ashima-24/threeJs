@@ -22,7 +22,7 @@ d,e. Choose a particular**Texture** of spray paint from the given options.
 ![Step f](/threeJs/docs/f_cover.jpg)
 ![Step h](/threeJs/docs/cover.png)
 
-f. You can **Rotate** the objec with this option and make it stop at the side where you want to paint and then Select a region on the 3d model for making a stencil of that part by drawing over that as above
+f. You can **Rotate** the object with this option and make it stop at the side where you want to paint and then Select a region on the 3d model for making a stencil of that part by drawing over that as above
 
 ![Step g](/threeJs/docs/g_cover.jpg)
 
