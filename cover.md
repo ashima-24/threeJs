@@ -1,23 +1,32 @@
 
+
 ## Lets Begin How to use this toolkit to make a Stencil
 
-![Step i](/threeJs/docs/assets/i.jpg)
-![Step k](/threeJs/docs/assets/k.jpg)
+![Step a](/threeJs/docs/a_cover.jpg)
 
-i,k. Select a 3d model of Redmi note 3 cover 
+a. Select a 3d model of cover 
 
-![Step j](/threeJs/docs/assets/j.jpg)
+![Step b](/threeJs/docs/b_cover.jpg)
 
-j. Choose a particular **Size** of paint brush and **Texture** of spray paint.  
+b. When you upload the STL model in the previous step, you will see some more toolkit widgets. 
 
-![Step l](/threeJs/docs/assets/l.jpg)
+![Step c](/threeJs/docs/c_cover.jpg)
 
-l. Select a region on the 3d model for making a stencil of that part by drawing over that.
+c. Choose a particular **Size** of paint brush 
 
-![Step m](/threeJs/docs/assets/m.jpg)
+![Step d](/threeJs/docs/d_cover.jpg)
 
-m. Click on this export button to get the selected region as zip file.
+d,e. Choose a particular**Texture** of spray paint from the given options.
 
-n. Run this **./run.sh** batch file to convert the zip to give output as .svg file.
+ 
+![Step f](/threeJs/docs/f_cover.jpg)
+
+f. You can **Rotate** the objec with this option and make it stop at the side where you want to paint and then Select a region on the 3d model for making a stencil of that part by drawing over that.
+
+![Step g](/threeJs/docs/g_cover.jpg)
+
+m. Click on this export button to get the selected region as png file.
+
+n. Run this **./run.sh** batch file to convert the png to give output as .svg file.
 
 o. import this .svg file on **visicut**.
