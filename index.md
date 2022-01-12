@@ -5,11 +5,11 @@ Here is the guide where you will be going to know what are the different tool wi
 ## Steps
 
 
-![Step a](/threeJs/docs/assets/a.jpg)
+![Step a](/threeJs/docs/a.jpg)
 
 
 
-1. In this above image these is the main widget in toolkit. By clicking on this button user can upload any **stl model** in the toolkit to proceed further. 
+1. In this above image these is the main widget in toolkit. By clicking on this button user can upload any **Load STL file** in the toolkit to proceed further. 
 
 2. We will provide some stl models where user can choose which model to upload and then can expermient with the other widget in the toolkit.
 
@@ -19,41 +19,37 @@ Here is the guide where you will be going to know what are the different tool wi
 
 b. In this image, we have Spray-On haptics toolkit widgets:
 
-1. **Brush**
-2. **Texture**
-3. **Export texture model** 
-4. **Toolkit Walkthrough Guide** 
+1. **Toolkit Basic Walkthrough**  
+2. **Load STL file**
+3. **size** 
+4. **brushTexture**
 
 ![Step c](/threeJs/docs/assets/c.jpg)
 
-c. In this **Size** helps in adjusting the size of paint brush. <!-- A value of 1 is like a pencil and a value of 15 or more is like a spray paint can. -->
+c. In this **Size** helps in adjusting the size of paint brush. <!-- A value between 1 to 2 is the best value to paint on the object. -->
 
 
 
-![Step d](/threeJs/docs/assets/d.jpg) 
-
-![Step f](/threeJs/docs/assets/f.jpg)
+![Step d,e](/threeJs/docs/de.jpg) 
 
 
 
-d,f **Texture** we have two types of spray paints. **Granite** and **Black Matt** paint.
+d,e **brushTexture** we have two types of spray paints. **Granite** and **Black Matt** paint.
 
-
-![Step e](/threeJs/docs/assets/e.jpg)
-
-
-
-e. **Export texture model** for exporting the model in image format(.png) and the .stl model also.
-
-
-![Step g](/threeJs/docs/assets/g.jpg)
-
-
-g. **Toolkit Walkthrough Guide** will show you the roadmap of how to use this toolkit.
+![Step f](/threeJs/docs/f.jpg)
 
 
 
-![Step h](/threeJs/docs/assets/h.jpg)
+f. **Toolkit Basic Walkthrough** will show you the roadmap of how to use this toolkit widgets.
+
+
+![Step g](/threeJs/docs/g.jpg)
+
+
+g. **Toolkit STL Walkthrough** This toolkit widget will be seen when you upload a STL model and then click on this walkthrough guide how to use the toolkit and its further options
+
+
+![Step h](/threeJs/docs/h.jpg)
 
 
 h. **Close Controls** is for closing all widgets.
