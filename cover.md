@@ -26,7 +26,7 @@ f. You can **Rotate** the object with this option and make it stop at the side w
 
 ![Step g](/threeJs/docs/g_cover.png)
 
-m. Click on this export button to get the selected region as svg file.
+g. Click on this export button to get the selected region as svg file.
 
-![Step N](/threeJs/docs/VIS.png)
-n. Import this .svg file on **visicut** and use engrave everything as cutting options.
+![Step k](/threeJs/docs/VIS.png)
+k. Import this .svg file on **visicut** and under mapping options select **engrave everything** as cutting option.
