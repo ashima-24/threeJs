@@ -26,8 +26,6 @@ f. You can **Rotate** the object with this option and make it stop at the side w
 
 ![Step g](/threeJs/docs/g_cover.jpg)
 
-m. Click on this export button to get the selected region as png file.
+m. Click on this export button to get the selected region as svg file.
 
-n. Run this **./run.sh** batch file to convert the png to give output as .svg file.
-
-o. import this .svg file on **visicut**.
+n. import this .svg file on **visicut** and use engrave everything as cutting options.
