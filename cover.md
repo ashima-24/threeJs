@@ -24,7 +24,7 @@ d,e. Choose a particular**Texture** of spray paint from the given options.
 
 f. You can **Rotate** the object with this option and make it stop at the side where you want to paint and then Select a region on the 3d model for making a stencil of that part by drawing over that as above
 
-![Step g](/threeJs/docs/g_cover.jpg)
+![Step g](/threeJs/docs/g_cover.png)
 
 m. Click on this export button to get the selected region as svg file.
 
