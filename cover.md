@@ -29,4 +29,4 @@ f. You can **Rotate** the object with this option and make it stop at the side w
 m. Click on this export button to get the selected region as svg file.
 
 ![Step N](/threeJs/docs/VIS.png)
-n. import this .svg file on **visicut** and use engrave everything as cutting options.
+n. Import this .svg file on **visicut** and use engrave everything as cutting options.
