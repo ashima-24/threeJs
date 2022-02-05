@@ -31,5 +31,5 @@ g. Click on this export button to get the selected region as svg file.
 ![Step h](/threeJs/docs/visicut_cover1.jpg)
 h. Import the .svg file on **visicut** using this plus sign.
 
-![Step i](/threeJs/docs/visicut_cover_2.jpg)
+![Step i](/threeJs/docs/visicut_cover2.jpg)
 i. Do the following settings in visicut: Mapping option: **Engrave Everything**, Position options: **Width: 75.6mm and Height: 148.1mm**, Power settings: **speed: 100 and Power: 70** and the select **EXECUTE** for sending the job to lasercutter
